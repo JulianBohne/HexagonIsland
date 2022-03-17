@@ -10,3 +10,4 @@ Key bindings:
 "/" to scale down
 
 Arrow keys to orbit around the island
+![Island Sample](https://github.com/JulianBohne/HexagonIsland/blob/master/Island.PNG)
